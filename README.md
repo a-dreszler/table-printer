@@ -6,9 +6,14 @@ Description:
 - data is entered through a form
 
 Data format:
+
 header1;header2;...;headern
+
 data1;data2;...;datan
+
 data1;data2;...;datan
+
 data1;data2;...;datan
+
 
 Number of columns in each row must be equal for app to properly parse data into a table.
